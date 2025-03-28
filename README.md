@@ -1,4 +1,4 @@
-# Data Calibration Algorithm Mathematics
+# Signal Analysis
 
 ## 1. Sigma (Standard Deviation) Calculation
 
