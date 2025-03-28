@@ -31,5 +31,8 @@ Considering the channel and its adjacent channels
 ## 4. Event Selection Metrics
 
 $$\text{valid events percentage} = \frac{\text{number of valid events}}{N_{\text{total}}} \times 100\%$$
+---
+Photos and some information about the project: https://drive.google.com/file/d/1f-P-xNB61l_ydpfkBB3Gc_ttWzeVIs85/view?usp=sharing
+
 
 
