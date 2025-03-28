@@ -32,13 +32,5 @@ Considering the channel and its adjacent channels
 
 $$\text{valid events percentage} = \frac{\text{number of valid events}}{N_{\text{total}}} \times 100\%$$
 
-## Key Algorithmic Insights
-- Noise reduction through standard deviation normalization
-- Threshold-based signal detection
-- Local signal context preservation
-- Percentage-based event quality assessment
-
-## Typical Use Cases
-- Particle physics data cleaning
-- Detector signal analysis
-- Noise reduction in experimental data
+##Use case
+Part of the analysis for DAMBE strip detectors, for the benefit of the muon detectors in ProtoDUNE.
