@@ -32,5 +32,4 @@ Considering the channel and its adjacent channels
 
 $$\text{valid events percentage} = \frac{\text{number of valid events}}{N_{\text{total}}} \times 100\%$$
 
-##Use case
-Part of the analysis for DAMBE strip detectors, for the benefit of the muon detectors in ProtoDUNE.
+
